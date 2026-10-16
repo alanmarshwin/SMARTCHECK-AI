@@ -1,0 +1,6 @@
+{
+  "name": "SmartCheck AI — Document Compliance Checker",
+  "description": "Intelligent document compliance verification engine that detects missing requirements, calculates accuracy scores, and provides actionable suggestions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
